@@ -34,9 +34,5 @@ Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack
 
 I love solving puzzles and playing strategy games!
 
-## 📈 GitHub Stats
 
-![Shravani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
