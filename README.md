@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack
 ## 🔭 What I'm Currently Working On
 - **[Travel-nest](https://github.com/your-github-username/travel-nest):** 
 - **[Portfolio Website](https://github.com/your-github-username/portfolio):** Showcasing my projects and skills.
-  
--
 
 ## 🌱 What I'm Learning
 
@@ -30,5 +28,15 @@ Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack
 
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
 - **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [github.com/your-g
+   **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
+
+## ⚡ Fun Fact
+
+I love solving puzzles and playing strategy games!
+
+## 📈 GitHub Stats
+
+![Shravani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
