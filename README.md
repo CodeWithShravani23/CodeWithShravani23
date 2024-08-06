@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack. I enjoy building dynamic and responsive web applications and constantly learning new technologies.
 
 ## 🔭 What I'm Currently Working On
-
+- **[Travel-nest](https://github.com/your-github-username/travel-nest):** 
 - **[Portfolio Website](https://github.com/your-github-username/portfolio):** Showcasing my projects and skills.
-- **[Stopwatch Web Application](https://github.com/your-github-username/stopwatch-app):** A simple and interactive stopwatch application.
-- **[Tic Tac Toe Game](https://github.com/your-github-username/tic-tac-toe):** A classic Tic Tac Toe game built with JavaScript.
+  
+-
 
 ## 🌱 What I'm Learning
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack
 
 ## 💼 Professional Experience
 
-- **Intern at Prodigy InfoTech:** Developed various web applications including a stopwatch app and a Tic Tac Toe game.
+- **Intern at Prodigy InfoTech:** Developed various web applications 
 
 ## 💻 Skills
 
