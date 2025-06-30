@@ -24,10 +24,11 @@ With a curious mind and a strong love for solving **real-world problems** throug
 
 ---
 
-# 📈 GitHub Stats:
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanidev&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanidev&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithShravani23&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithShravani23&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
