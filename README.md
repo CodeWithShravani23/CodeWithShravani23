@@ -1,38 +1,56 @@
-# Hi, I'm Shravani 👋
+# 💫 About Me:
+Hi, I'm **Shravani** — a passionate **Full Stack Web Developer (MERN)** and an **Aspiring Space Tech Innovator 🚀** <br>
+With a curious mind and a strong love for solving **real-world problems** through **code**, I blend creativity, logic, and futuristic thinking into everything I build.
 
-Welcome to my GitHub profile! I'm a web developer specializing in the MERN stack. I enjoy building dynamic and responsive web applications and constantly learning new technologies.
+- 🌍 Currently working on: **Low-light Lunar Image Enhancement** for Chandrayaan-2 mission 🚀🌑  
+- 💡 Exploring the intersection of **AI + Space + Web Development**  
+- 📦 Built real-time chat apps, version control systems, and productivity tools  
+- 🧠 Learning **Edge AI**, **Explainable AI**, and **Self-supervised Learning**  
+- 📸 I also love **photography**, **storytelling**, and writing poetic verses.  
+- 🔭 Dream: Contribute to ISRO and crack the code to a better world 💙  
 
-## 🔭 What I'm Currently Working On
-- **[Travel-nest](https://github.com/your-github-username/travel-nest):** 
-- **[Portfolio Website](https://github.com/your-github-username/portfolio):** Showcasing my projects and skills.
+---
 
-## 🌱 What I'm Learning
+# 🛠️ Tech Stack:
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Advanced React patterns
-- Next.js for server-side rendering
-- GraphQL for efficient data fetching
+---
 
-## 💼 Professional Experience
+# 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shravanidev&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanidev&layout=compact&theme=tokyonight" height="180" />
+</p>
 
-- **Intern at Prodigy InfoTech:** Developed various web applications 
+---
 
-## 💻 Skills
+# 🔭 Featured Projects:
+- 🚀 **[Lunar PSR Image Enhancer](#)** – AI-powered solution to boost low-light lunar crater images  
+- 📚 **[Question Bank Platform](#)** – Access previous year papers and topic-wise banks in one place  
+- 💬 **[Real-time Chat App](#)** – Secure, responsive chat built with socket.io and MERN stack  
+- 🗂️ **[Version Control System](#)** – Your own GitHub-like platform built from scratch  
+- ✅ **[Productivity Tracker](#)** – Personalized To-Do + Notes + Dashboard app
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frontend:** React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git, GitHub
+---
 
-## 📫 How to Reach Me
+# 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+✉️ **Email**: shravanidev@example.com  
+🌐 **Portfolio**: [your-portfolio-link.com](#)
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-   **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
+---
 
-## ⚡ Fun Fact
+> “Sometimes the people who believe they can change the world… are the ones who actually do.”
 
-I love solving puzzles and playing strategy games!
+
 
 
 
