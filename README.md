@@ -45,7 +45,7 @@ With a curious mind and a strong love for solving **real-world problems** throug
 # 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
 ✉️ **Email**: meetpatilshravani23@gmail.com  
-🌐 **Portfolio**: [https://www.linkedin.com/in/shravani-patil-226a8b272/](#)
+🌐 **Linkedin**: [https://www.linkedin.com/in/shravani-patil-226a8b272/](#)
 
 ---
 
