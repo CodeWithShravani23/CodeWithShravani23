@@ -37,14 +37,14 @@ With a curious mind and a strong love for solving **real-world problems** throug
 - 📚 **[Question Bank Platform](#)** – Access previous year papers and topic-wise banks in one place  
 - 💬 **[Real-time Chat App](#)** – Secure, responsive chat built with socket.io and MERN stack  
 - 🗂️ **[Version Control System](#)** – Your own GitHub-like platform built from scratch  
-- ✅ **[Productivity Tracker](#)** – Personalized To-Do + Notes + Dashboard app
+- ✅ **[Productivity Tracker(Eduhaven)](#)** – Personalized To-Do + Notes + Dashboard app
 
 ---
 
 # 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-✉️ **Email**: shravanidev@example.com  
-🌐 **Portfolio**: [your-portfolio-link.com](#)
+✉️ **Email**: meetpatilshravani23@gmail.com  
+🌐 **Portfolio**: [https://www.linkedin.com/in/shravani-patil-226a8b272/](#)
 
 ---
 
